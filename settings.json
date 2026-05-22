@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "paper-CkF6.aternos.me:35632",
+    "port": 35632,
     "version": "",
     "try-creative": false
   },
